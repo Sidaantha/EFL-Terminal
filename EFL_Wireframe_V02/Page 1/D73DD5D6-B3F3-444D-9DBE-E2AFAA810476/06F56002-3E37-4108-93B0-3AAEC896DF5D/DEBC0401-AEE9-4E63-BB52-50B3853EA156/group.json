@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9F2B0300-C56D-418A-9B18-89C2FE1D5345",
-    "height": 21,
+    "height": 66,
     "width": 118,
     "x": 201,
-    "y": 16
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -33,11 +33,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
       "id": "6DD2258F-2066-4A37-8B0E-B9AAE47F9CA4"
+    },
+    {
+      "class": "text",
+      "id": "14C923D1-B9BC-4C9D-8ED0-CF9C881EAD31"
     }
   ],
   "name": "date copy",
