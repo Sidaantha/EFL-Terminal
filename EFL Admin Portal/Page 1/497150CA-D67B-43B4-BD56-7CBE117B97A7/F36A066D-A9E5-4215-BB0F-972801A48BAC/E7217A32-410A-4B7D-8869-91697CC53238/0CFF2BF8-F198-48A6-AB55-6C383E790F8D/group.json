@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0CFF2BF8-F198-48A6-AB55-6C383E790F8D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2FF2659C-F82E-44B2-ADE0-8699FFF294BD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6D6C17F5-B808-4C61-B436-4BAD86E46B07",
+    "height": 24,
+    "width": 24,
+    "x": 22,
+    "y": 16
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "EF4EEF28-08AC-4950-8393-1455C068D6A3"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "52B0ED36-D631-4C02-84E3-0664EF7CC4B2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DEA36721-FC49-4DEB-B452-46FF88E260AF"
+    }
+  ],
+  "name": "Material/Light/Checkbox off",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1AC57E93-D384-4FC7-B7A4-45F8639A0DAB",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

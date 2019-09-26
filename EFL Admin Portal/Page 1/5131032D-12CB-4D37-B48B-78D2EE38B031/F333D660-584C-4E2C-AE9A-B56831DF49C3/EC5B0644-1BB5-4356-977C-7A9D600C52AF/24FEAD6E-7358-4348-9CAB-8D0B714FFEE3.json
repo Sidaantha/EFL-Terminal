@@ -1,0 +1,102 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "24FEAD6E-7358-4348-9CAB-8D0B714FFEE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "53B80458-56DC-4B7A-9348-4221EBD2B545",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9B33B10D-784B-4003-87BB-663C4022AA17",
+    "height": 50,
+    "width": 50,
+    "x": 27,
+    "y": 7
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/3bc4c5652e2bb2f4944f6104d14d75335618c040.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "download",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "88710E33-432A-445A-97CB-7DCC77FC6E9D",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 0
+    },
+    "do_objectID": "070C2078-091B-4DBB-91C8-BDDB8BC5E721",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 68,
+            "enabled": 1,
+            "modelID": "constraint_d43f9966-b6a6-45d9-b197-295bc1d1a34e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 68
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_3fe95c6c-07cc-44b4-9127-ceb11a41e902",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
