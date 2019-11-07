@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "104F87E4-09FE-4DF7-AB41-C2A0CEEF6852",
+  "do_objectID": "D589DA45-39E9-487F-AAE8-F2E431E88CBC",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0036FE25-682C-40D4-A749-5370717A8915",
+    "do_objectID": "8A0E7DD4-3EE3-4145-9024-A5F8A459C460",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,15 +14,15 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 2,
+  "fixedRadius": 8,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "18473469-2836-4B3E-8EAB-2A273E6FD381",
-    "height": 45,
-    "width": 309,
+    "do_objectID": "562A49E6-93B1-4B54-9AD7-1073A6AC65D5",
+    "height": 81,
+    "width": 359,
     "x": 0,
-    "y": 106
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -39,7 +39,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 8,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -49,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 8,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -59,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 8,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -69,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 8,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -100,7 +100,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "E64363FA-6B5D-4766-825E-F0622278BA3E",
+    "do_objectID": "B3CD254C-2C63-459D-9A1A-ECCA12B3F0C2",
     "endMarkerType": 0,
     "fills": [
       {
@@ -108,9 +108,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1529411764705883,
-          "green": 0.592156862745098,
-          "red": 0.9686274509803922
+          "blue": 0.0196078431372549,
+          "green": 0.0196078431372549,
+          "red": 0.0196078431372549
         },
         "fillType": 0,
         "isEnabled": true,
