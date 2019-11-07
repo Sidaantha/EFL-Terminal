@@ -15,6 +15,15 @@
     "_class": "exportOptions",
     "do_objectID": "8F5562C4-7534-4671-9E4C-8E803FEB2843",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -35,7 +44,7 @@
     "do_objectID": "05A37919-5A39-4D66-8F46-3623A5A1886F"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,8 +70,36 @@
       "id": "CBDEBDA1-3A6F-4B3E-9A08-8E1E25FD719C"
     },
     {
+      "class": "symbolInstance",
+      "id": "C53028CD-0930-44C7-A48C-07AE7FCF3438"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "06A46292-5751-4913-90B1-6809F0DA49AF"
+    },
+    {
+      "class": "rectangle",
+      "id": "7D1F0B98-DDF9-4C8B-827B-B76F60F10D02"
+    },
+    {
+      "class": "text",
+      "id": "7F827481-CD7D-43AD-8A7D-4FD40A238DB2"
+    },
+    {
       "class": "group",
-      "id": "2D0645D3-CA4B-4BB1-95DB-A3BE4F4F034E"
+      "id": "C145BBE4-C74D-431B-B337-8E26588E48F3"
+    },
+    {
+      "class": "group",
+      "id": "54790957-9077-4EC6-8CD3-D0DDB1737254"
+    },
+    {
+      "class": "group",
+      "id": "C14405C8-B69F-4A24-A1DD-17E1E7FF9F7F"
+    },
+    {
+      "class": "group",
+      "id": "B3AACFD3-A3E5-4F19-9E96-BD473558A0A2"
     }
   ],
   "name": "Edit_profile",
@@ -92,6 +129,7 @@
     "base": 0,
     "do_objectID": "93A6B55C-9F3D-4244-91E8-96827504AB67",
     "guides": [
+      74
     ]
   }
 }

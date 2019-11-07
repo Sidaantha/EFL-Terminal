@@ -15,6 +15,15 @@
     "_class": "exportOptions",
     "do_objectID": "8D817EF6-7540-4298-83D9-6673E5D80BB2",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -35,7 +44,7 @@
     "do_objectID": "3CDF00C8-372E-4639-8C5F-F12ACDB36043"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -87,6 +96,18 @@
     {
       "class": "group",
       "id": "24C9B35D-4FB0-4914-8416-1637F11CDE30"
+    },
+    {
+      "class": "group",
+      "id": "D8BA2864-555C-4F21-A7D9-C391B05C2A3F"
+    },
+    {
+      "class": "group",
+      "id": "D454B1D2-A38A-4968-9C60-40C7796A45ED"
+    },
+    {
+      "class": "oval",
+      "id": "D9AFA705-400C-4D94-938C-8A11331757CD"
     }
   ],
   "name": "Settings",
@@ -116,7 +137,8 @@
     "base": 0,
     "do_objectID": "E1568A08-12A3-47EE-A448-F281F694F012",
     "guides": [
-      74
+      74,
+      96
     ]
   }
 }
