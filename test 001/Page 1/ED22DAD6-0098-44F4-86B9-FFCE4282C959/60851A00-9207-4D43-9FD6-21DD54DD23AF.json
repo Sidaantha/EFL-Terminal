@@ -14,9 +14,9 @@
             "red": 0.08627450980392162
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
-              "name": "Gotham-Ultra",
+              "name": "SharpSansNo1-Bold",
               "size": 18
             }
           },
@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "fuck you\ntoo"
+    "string": "fuck you\ntoo sahksa"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 82,
+    "height": 50,
+    "width": 90,
     "x": 75,
     "y": 133
   },
-  "glyphBounds": "{{0, 0}, {81, 33}}",
+  "glyphBounds": "{{0, 6}, {89, 40}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "fuck you too",
+  "name": "fuck you too sahksa",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -87,9 +87,9 @@
           "red": 0.08627450980392162
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
-            "name": "Gotham-Ultra",
+            "name": "SharpSansNo1-Bold",
             "size": 18
           }
         },
