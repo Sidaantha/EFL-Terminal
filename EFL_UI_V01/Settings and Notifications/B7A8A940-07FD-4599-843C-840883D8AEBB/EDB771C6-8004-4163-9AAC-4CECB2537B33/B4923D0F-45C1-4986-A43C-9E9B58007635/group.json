@@ -2,10 +2,9 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "09E1C77E-DB2F-4A64-B612-D76F1FBD9D3C",
+  "do_objectID": "B4923D0F-45C1-4986-A43C-9E9B58007635",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E9E6CB93-A695-4801-96D6-61F9F18B7C32",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D4C3A9C5-DA4C-437C-99E3-065EE3D43E2E",
-    "height": 8,
-    "width": 16,
-    "x": 327,
-    "y": 117
+    "height": 56,
+    "width": 180,
+    "x": 25,
+    "y": 17
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "9D49874D-F4AF-4077-8A3F-DC56700F207E"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,22 +30,29 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "75C48AD6-4C85-49F0-B4A1-CA893608B44A"
+      "class": "text",
+      "id": "5E2A292A-57C2-478D-8369-7BDE3C4452C8"
+    },
+    {
+      "class": "text",
+      "id": "68BA0337-1376-4106-A875-F20DAC291423"
+    },
+    {
+      "class": "text",
+      "id": "409489EF-DA14-42AC-B910-314D0856EE74"
     }
   ],
-  "name": "CHEVRON",
+  "name": "Information",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 270,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "549AE042-D845-4A99-8660-C2B8B6677C2D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
