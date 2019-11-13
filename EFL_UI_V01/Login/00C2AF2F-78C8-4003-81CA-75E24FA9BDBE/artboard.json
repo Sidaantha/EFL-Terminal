@@ -15,15 +15,6 @@
     "_class": "exportOptions",
     "do_objectID": "B54E004F-13A4-4E6B-9B2C-4ADFC1001850",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@2x",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -44,7 +35,7 @@
     "do_objectID": "14A4B4B8-72FB-439E-AA40-33650EAC17B0"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -63,43 +54,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "6C35222C-D9AA-4333-98DA-79AA7F899F0A"
-    },
-    {
-      "class": "text",
-      "id": "9802BAE2-5952-4F07-8F10-E4D49119E786"
+      "class": "group",
+      "id": "5BA62137-61E7-4BBC-8966-FE081F0D608D"
     },
     {
       "class": "symbolInstance",
-      "id": "282F6071-2F99-4D23-A99C-06DDFF59D2AD"
-    },
-    {
-      "class": "rectangle",
-      "id": "5A6E25AB-9B25-4726-A830-81D9ACA28B18"
-    },
-    {
-      "class": "rectangle",
-      "id": "927B025D-EA48-4184-B977-2DE93F12E854"
-    },
-    {
-      "class": "group",
-      "id": "4DF42CCA-2275-422A-B631-89780BDF3068"
-    },
-    {
-      "class": "group",
-      "id": "2917CB23-303B-4D8C-8B19-58F1565AF986"
-    },
-    {
-      "class": "text",
-      "id": "6C74EF19-65A8-4C00-BCDA-B8367B142053"
-    },
-    {
-      "class": "bitmap",
-      "id": "0C33DD1F-DE6E-4D3F-9D82-0C62ABFC37CE"
+      "id": "FD0B8FBE-B5B4-4E27-BE25-9922DC2CBD5A"
     }
   ],
   "name": "Login",

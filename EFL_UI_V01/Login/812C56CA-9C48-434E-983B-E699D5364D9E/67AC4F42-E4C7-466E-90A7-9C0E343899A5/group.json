@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "67AC4F42-E4C7-466E-90A7-9C0E343899A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "01F81617-EABC-4F83-80F8-E73B30877898",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6AF3B713-0EAD-468B-9A0A-0D4320CD6122",
+    "height": 35,
+    "width": 45,
+    "x": 786,
+    "y": 2168
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "EADE16BC-46AF-48D1-82E5-34BCC1D7FB76"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8CD7BD86-19C2-42E9-BA17-DFA868E4E9F3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7E9BDF7B-8994-42A8-B440-7E0956B0C215"
+    },
+    {
+      "class": "oval",
+      "id": "520B6E30-BBF1-4150-8361-12AD55D8A80D"
+    }
+  ],
+  "name": "Camera",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1F7A3A72-B5FF-4BDF-A40D-69D0F3E9C87D",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
