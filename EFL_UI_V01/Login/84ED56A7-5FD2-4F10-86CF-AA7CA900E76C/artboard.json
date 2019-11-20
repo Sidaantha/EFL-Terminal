@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.05882352941176471,
-    "do_objectID": "86EEF681-3D34-4392-9F14-CDCC5918DF54",
-    "green": 0.05490196078431372,
-    "red": 0.04705882352941176
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -44,7 +43,7 @@
     "do_objectID": "73F971E9-82E4-405F-8507-FF637C9A7E99"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -66,12 +65,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "19991504-A463-4332-A915-495E26DE444C"
+      "class": "group",
+      "id": "3F15BD1B-A2A7-4318-A0BB-A1E808E43948"
     },
     {
       "class": "group",
-      "id": "3F15BD1B-A2A7-4318-A0BB-A1E808E43948"
+      "id": "3CFBB2A7-C38D-4D58-838F-8D2D6CA8CE27"
     }
   ],
   "name": "Password_changed",

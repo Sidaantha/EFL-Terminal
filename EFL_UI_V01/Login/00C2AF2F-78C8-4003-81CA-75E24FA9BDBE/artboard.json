@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.05882352941176471,
-    "do_objectID": "01B47968-01CD-4B24-8D6D-1F0480ED810C",
-    "green": 0.05490196078431372,
-    "red": 0.04705882352941176
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -44,7 +43,7 @@
     "do_objectID": "14A4B4B8-72FB-439E-AA40-33650EAC17B0"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -67,11 +66,11 @@
   "layers": [
     {
       "class": "group",
-      "id": "5BA62137-61E7-4BBC-8966-FE081F0D608D"
+      "id": "E7579A9B-0A37-4D7D-8BF1-D6BF3C1AAE98"
     },
     {
-      "class": "symbolInstance",
-      "id": "FD0B8FBE-B5B4-4E27-BE25-9922DC2CBD5A"
+      "class": "group",
+      "id": "6B9BB4A3-DBAF-464F-B831-4594E1A39A1B"
     }
   ],
   "name": "Login",

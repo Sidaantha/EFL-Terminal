@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.05910326086956522,
-    "do_objectID": "9A072861-9CDC-4649-898C-18DBD1707A63",
-    "green": 0.05398173708771756,
-    "red": 0.04746955879672587
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -44,7 +43,7 @@
     "do_objectID": "585044B0-CD87-4F9D-9F0E-407540D68923"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -68,6 +67,10 @@
     {
       "class": "bitmap",
       "id": "50945F74-9160-40B2-A25A-D4E513B512B2"
+    },
+    {
+      "class": "group",
+      "id": "611FF7C3-DD2D-4B90-B349-E5808CDFA098"
     }
   ],
   "name": "Splash_screen",

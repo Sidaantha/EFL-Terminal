@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.05882352941176471,
-    "do_objectID": "7A661A4F-9BCC-4F1A-8895-B70A289D4068",
-    "green": 0.05490196078431372,
-    "red": 0.04705882352941176
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -44,7 +43,7 @@
     "do_objectID": "DDBC5A04-1817-4BD2-A672-1530B7EB8FB2"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -70,10 +69,6 @@
       "id": "77ED058C-CF02-424E-A925-C355303F946C"
     },
     {
-      "class": "symbolInstance",
-      "id": "75643C6B-94C4-46AE-BFA8-5FBF15659054"
-    },
-    {
       "class": "group",
       "id": "9FC8F67A-3AB6-4781-A295-4C221B1455A5"
     },
@@ -82,12 +77,8 @@
       "id": "227D1EC1-E47C-43CF-AD12-4266984128A0"
     },
     {
-      "class": "symbolInstance",
-      "id": "612D1300-D7A9-4ABA-9A53-5CBCE6D62026"
-    },
-    {
-      "class": "shapePath",
-      "id": "BE327F32-08CF-4673-B5E0-71B3F3840419"
+      "class": "group",
+      "id": "FA641AAF-5DB8-4B8B-BE94-AEE101BC0723"
     }
   ],
   "name": "Enter_new_password",
