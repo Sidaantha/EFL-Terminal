@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "UIFontDescriptor",
             "attributes": {
-              "name": "OpenSans-Semibold",
+              "name": "Roboto-Regular",
               "size": 15
             }
           },
@@ -30,11 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 10,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "Vehicle No"
+    "string": "Vehicle Type"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,11 +56,11 @@
     "constrainProportions": false,
     "do_objectID": "2A2C1E7D-9792-4545-A983-F73794927F15",
     "height": 22,
-    "width": 77,
+    "width": 85,
     "x": 58,
-    "y": 283
+    "y": 182
   },
-  "glyphBounds": "{{0, 5}, {76, 13}}",
+  "glyphBounds": "{{0, 5}, {85, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -96,7 +96,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "UIFontDescriptor",
           "attributes": {
-            "name": "OpenSans-SemiBold",
+            "name": "Roboto-Regular",
             "size": 15
           }
         },
