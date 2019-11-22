@@ -14,7 +14,7 @@
             "red": 0.08627450980392157
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "Montserrat-Regular",
               "size": 10
@@ -52,9 +52,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4BAA1EE7-245B-45D3-A992-181786DDE5F8",
     "height": 10,
-    "width": 96,
+    "width": 97,
     "x": 0,
     "y": 0
   },
@@ -101,7 +100,7 @@
           "red": 0.08627450980392157
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "UIFontDescriptor",
+          "_class": "fontDescriptor",
           "attributes": {
             "name": "Montserrat-Regular",
             "size": 10

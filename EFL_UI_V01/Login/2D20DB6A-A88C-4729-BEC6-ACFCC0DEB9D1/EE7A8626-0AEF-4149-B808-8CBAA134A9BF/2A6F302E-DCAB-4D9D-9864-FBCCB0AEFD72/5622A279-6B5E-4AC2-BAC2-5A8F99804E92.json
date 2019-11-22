@@ -14,7 +14,7 @@
             "red": 1
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Regular",
               "size": 14
@@ -52,10 +52,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9A078A4B-71F2-47C0-A5FB-554498829502",
-    "height": 19,
-    "width": 45,
-    "x": 25.5,
+    "height": 32,
+    "width": 46,
+    "x": 25,
     "y": 40
   },
   "glyphBounds": "{{1, 4}, {44, 14}}",
@@ -91,7 +90,7 @@
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "UIFontDescriptor",
+          "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Regular",
             "size": 14

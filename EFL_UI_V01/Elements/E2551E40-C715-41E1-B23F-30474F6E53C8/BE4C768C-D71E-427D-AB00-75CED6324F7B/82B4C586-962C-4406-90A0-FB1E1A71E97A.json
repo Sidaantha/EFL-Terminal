@@ -14,7 +14,7 @@
             "red": 0.08627450980392158
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "Montserrat-Regular",
               "size": 13
@@ -41,7 +41,7 @@
             "red": 0.08627450980392158
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "AppleColorEmoji",
               "size": 13
@@ -78,9 +78,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "05A48104-6ABB-40DF-8DA1-3711633562D4",
     "height": 21,
-    "width": 162,
+    "width": 163,
     "x": 66,
     "y": 29
   },
@@ -123,7 +122,7 @@
           "red": 0.08627450980392158
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "UIFontDescriptor",
+          "_class": "fontDescriptor",
           "attributes": {
             "name": "Montserrat-Regular",
             "size": 13

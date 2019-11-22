@@ -14,7 +14,7 @@
             "red": 1
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "UIFontDescriptor",
+            "_class": "fontDescriptor",
             "attributes": {
               "name": "SFProDisplay-Light",
               "size": 24
@@ -52,9 +52,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A2793789-C013-4F3B-A477-87BCAA8E2E9B",
     "height": 29,
-    "width": 121,
+    "width": 149,
     "x": 25,
     "y": 185
   },
@@ -91,7 +90,7 @@
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "UIFontDescriptor",
+          "_class": "fontDescriptor",
           "attributes": {
             "name": "SFProDisplay-Light",
             "size": 24
