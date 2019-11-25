@@ -14,9 +14,9 @@
             "red": 0.2941176470588235
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Regular",
+              "name": "SFProDisplay-Regular",
               "size": 12
             }
           },
@@ -52,12 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3773ECBE-2A16-4BFB-A0F5-66FC21E23BB3",
-    "height": 16,
-    "width": 85,
+    "height": 14,
+    "width": 78,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 2}, {85, 13}}",
+  "glyphBounds": "{{0, 2}, {78, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,7 +71,7 @@
   "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "D950CCC0-0639-42C1-9609-EEA40B5A78DC",
+  "sharedStyleID": "E105F92C-85F6-4705-ACEA-2898729685ED",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,7 +81,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "905661E3-851B-4F51-85AA-46C95ABD29B3",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -91,9 +90,9 @@
           "red": 0.2941176470588235
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Regular",
+            "name": "SFProDisplay-Regular",
             "size": 12
           }
         },

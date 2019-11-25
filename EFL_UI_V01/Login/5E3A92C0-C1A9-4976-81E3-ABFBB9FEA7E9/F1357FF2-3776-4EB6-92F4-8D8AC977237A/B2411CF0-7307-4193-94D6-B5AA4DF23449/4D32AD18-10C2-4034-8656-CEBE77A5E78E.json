@@ -14,15 +14,15 @@
             "red": 1
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Medium",
+              "name": "SFProDisplay-Medium",
               "size": 20
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
           }
         },
@@ -60,12 +60,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "EBE3C50E-82C3-49CA-A8E3-115192892BC3",
-    "height": 27,
-    "width": 112,
-    "x": 116,
-    "y": 9
+    "height": 24,
+    "width": 105,
+    "x": 119,
+    "y": 10
   },
-  "glyphBounds": "{{0, 4}, {111, 21}}",
+  "glyphBounds": "{{0, 4}, {104, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -79,7 +79,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "D8F8CF3E-5ED8-462B-8815-8A2CD011F451",
+  "sharedStyleID": "08FFE09A-514F-453B-9A2A-99BEE9209C86",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -89,7 +89,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "A3C86A2E-5699-468F-8C70-B9063DA3F039",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -99,15 +98,15 @@
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Medium",
+            "name": "SFProDisplay-Medium",
             "size": 20
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
         }
       },

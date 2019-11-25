@@ -9,18 +9,17 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3502588272094727,
-            "green": 0.3251887559890747,
-            "red": 0.2890631556510925
+            "blue": 0.2588235294117647,
+            "green": 0.2431372549019608,
+            "red": 0.2156862745098039
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Regular",
-              "size": 12
+              "name": "SFProDisplay-Regular",
+              "size": 16
             }
           },
-          "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -52,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2141CEE3-D8FE-4A69-ADBD-F73125B72483",
-    "height": 16,
-    "width": 78,
+    "height": 19,
+    "width": 95,
     "x": 125,
-    "y": 116
+    "y": 113
   },
-  "glyphBounds": "{{0, 2}, {78, 13}}",
+  "glyphBounds": "{{0, 3}, {95, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,7 +70,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "D950CCC0-0639-42C1-9609-EEA40B5A78DC",
+  "sharedStyleID": "13E54BBB-E504-40EA-9B1B-4DD49EB329D8",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -85,18 +84,17 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3502588272094727,
-          "green": 0.3251887559890747,
-          "red": 0.2890631556510925
+          "blue": 0.2588235294117647,
+          "green": 0.2431372549019608,
+          "red": 0.2156862745098039
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Regular",
-            "size": 12
+            "name": "SFProDisplay-Regular",
+            "size": 16
           }
         },
-        "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,

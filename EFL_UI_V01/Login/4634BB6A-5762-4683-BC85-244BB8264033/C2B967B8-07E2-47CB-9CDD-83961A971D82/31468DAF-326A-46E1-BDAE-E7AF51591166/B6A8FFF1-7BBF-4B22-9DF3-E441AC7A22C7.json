@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1490196078431373,
-            "green": 0.5921568627450982,
-            "red": 0.9686274509803922
+            "blue": 0.1294117647058823,
+            "green": 0.4274509803921569,
+            "red": 0.9490196078431372
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
+              "name": "SFProDisplay-Regular",
               "size": 14
             }
           },
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "DD00E8E4-0FF3-4E89-A0B0-35286FE14D36",
-    "height": 19,
-    "width": 81,
-    "x": 6,
-    "y": 40
+    "height": 16,
+    "width": 75,
+    "x": 9,
+    "y": 42
   },
-  "glyphBounds": "{{1, 4}, {79, 12}}",
+  "glyphBounds": "{{0, 3}, {75, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -86,14 +86,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1490196078431373,
-          "green": 0.5921568627450982,
-          "red": 0.9686274509803922
+          "blue": 0.1294117647058823,
+          "green": 0.4274509803921569,
+          "red": 0.9490196078431372
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
+            "name": "SFProDisplay-Regular",
             "size": 14
           }
         },

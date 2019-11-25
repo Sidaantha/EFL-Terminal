@@ -44,7 +44,7 @@
     "do_objectID": "4F8DFFA6-0A76-465C-AD6A-C9DD71F60EF7"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -96,10 +96,6 @@
       "id": "2F068CAC-F01E-475A-8F6C-4EEB64927CA1"
     },
     {
-      "class": "group",
-      "id": "27F025E5-EE59-4FBE-A3AF-566C3BB28D9B"
-    },
-    {
       "class": "rectangle",
       "id": "28669F93-1FAD-4874-9713-BADFA9091AFB"
     },
@@ -118,6 +114,10 @@
     {
       "class": "rectangle",
       "id": "C964D2ED-4731-4C7C-ADA7-7E7683F8F4A2"
+    },
+    {
+      "class": "group",
+      "id": "6DEB6CEF-62DC-423D-A3BE-BF0DE8F509C9"
     }
   ],
   "name": "Settings",

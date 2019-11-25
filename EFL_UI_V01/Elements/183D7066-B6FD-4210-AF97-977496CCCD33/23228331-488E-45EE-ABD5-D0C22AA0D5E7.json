@@ -14,7 +14,7 @@
             "red": 0
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
               "name": "GoogleSans-Medium",
               "size": 34
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "874A2105-6C14-40D5-975A-DD22563BE509",
-    "height": 43,
-    "width": 333,
+    "height": 41,
+    "width": 316,
     "x": 20,
     "y": 83
   },
-  "glyphBounds": "{{1, 8}, {332, 33}}",
+  "glyphBounds": "{{1, 7}, {314, 34}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +91,7 @@
           "red": 0
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
             "name": "GoogleSans-Medium",
             "size": 34

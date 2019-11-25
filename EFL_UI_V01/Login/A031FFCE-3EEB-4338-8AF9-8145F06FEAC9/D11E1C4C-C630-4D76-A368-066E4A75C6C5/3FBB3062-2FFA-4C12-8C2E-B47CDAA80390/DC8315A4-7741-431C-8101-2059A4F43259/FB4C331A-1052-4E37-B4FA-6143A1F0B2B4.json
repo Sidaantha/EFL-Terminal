@@ -9,18 +9,17 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.9128736413043478,
-            "green": 0.9128736413043478,
-            "red": 0.9128736413043478
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Regular",
+              "name": "SFProDisplay-Regular",
               "size": 16
             }
           },
-          "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -52,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "01F5C517-1D21-4D51-A395-5EDB37082D4A",
-    "height": 22,
-    "width": 104,
+    "height": 19,
+    "width": 109,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 4}, {103, 13}}",
+  "glyphBounds": "{{0, 3}, {108, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,7 +70,7 @@
   "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "86AD6AE1-B37D-401A-AA07-9BEA8E8130C6",
+  "sharedStyleID": "13E54BBB-E504-40EA-9B1B-4DD49EB329D8",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,23 +80,21 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "77FFB467-C329-490C-8CD0-EF446CEE5214",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9128736413043478,
-          "green": 0.9128736413043478,
-          "red": 0.9128736413043478
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Regular",
+            "name": "SFProDisplay-Regular",
             "size": 16
           }
         },
-        "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,

@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1529411764705883,
-            "green": 0.592156862745098,
-            "red": 0.9686274509803922
+            "blue": 0.1294117647058823,
+            "green": 0.4274509803921569,
+            "red": 0.9490196078431372
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Regular",
+              "name": "SFProDisplay-Regular",
               "size": 16
             }
           },
@@ -60,12 +60,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B56CE857-0211-484F-B93F-0CE536B8B6C6",
-    "height": 22,
-    "width": 220,
+    "height": 19,
+    "width": 204,
     "x": 0.6796116504854126,
     "y": 0
   },
-  "glyphBounds": "{{0, 3}, {219, 17}}",
+  "glyphBounds": "{{0, 3}, {203, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -80,6 +80,7 @@
   "resizingConstraint": 34,
   "resizingType": 3,
   "rotation": 0,
+  "sharedStyleID": "13E54BBB-E504-40EA-9B1B-4DD49EB329D8",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -89,19 +90,18 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "477147F9-5CF0-452A-A7BD-70CB5CD5A781",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1529411764705883,
-          "green": 0.592156862745098,
-          "red": 0.9686274509803922
+          "blue": 0.1294117647058823,
+          "green": 0.4274509803921569,
+          "red": 0.9490196078431372
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Regular",
+            "name": "SFProDisplay-Regular",
             "size": 16
           }
         },

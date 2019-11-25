@@ -14,15 +14,15 @@
             "red": 1
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Medium",
+              "name": "SFProDisplay-Medium",
               "size": 24
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0
           },
           "strikethroughStyle": 0,
@@ -62,12 +62,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1599685E-45C1-4DCC-8BEC-24B0B7077B43",
-    "height": 33,
-    "width": 343,
+    "height": 29,
+    "width": 260,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{2, 5}, {275, 25}}",
+  "glyphBounds": "{{1, 6}, {258, 22}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -81,7 +81,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "05A6522E-5B83-4EA1-B418-B962CC83F5AE",
+  "sharedStyleID": "FCA15155-67A2-4103-B687-F6FA5D7A461D",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -125,7 +125,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "4B54B144-174F-40A1-B153-850A91352C59",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -135,15 +134,15 @@
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Medium",
+            "name": "SFProDisplay-Medium",
             "size": 24
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0
         },
         "strikethroughStyle": 0,
@@ -153,5 +152,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

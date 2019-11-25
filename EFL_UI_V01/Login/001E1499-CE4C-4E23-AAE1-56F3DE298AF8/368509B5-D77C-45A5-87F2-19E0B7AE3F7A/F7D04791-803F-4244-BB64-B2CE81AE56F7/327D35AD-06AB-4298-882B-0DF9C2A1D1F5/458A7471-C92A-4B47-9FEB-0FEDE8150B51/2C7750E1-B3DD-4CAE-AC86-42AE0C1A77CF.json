@@ -14,15 +14,15 @@
             "red": 1
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Medium",
+              "name": "SFProDisplay-Medium",
               "size": 20
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
           }
         },
@@ -60,12 +60,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2BCC47C3-F1AD-4EFD-9C1D-A5EEE144A0A2",
-    "height": 27,
-    "width": 143,
+    "height": 24,
+    "width": 135,
     "x": 100.5,
-    "y": 9
+    "y": 10
   },
-  "glyphBounds": "{{0, 4}, {143, 17}}",
+  "glyphBounds": "{{0, 4}, {135, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -79,7 +79,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "D8F8CF3E-5ED8-462B-8815-8A2CD011F451",
+  "sharedStyleID": "08FFE09A-514F-453B-9A2A-99BEE9209C86",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -89,7 +89,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "6EE90831-45DE-44BB-A835-251A88617AE5",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -99,15 +98,15 @@
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Medium",
+            "name": "SFProDisplay-Medium",
             "size": 20
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
         }
       },

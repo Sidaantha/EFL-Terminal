@@ -14,9 +14,9 @@
             "red": 1
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
+              "name": "SFProText-Regular",
               "size": 14
             }
           },
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9393A9A1-B938-4F31-91AF-5F611CD99A44",
-    "height": 19,
-    "width": 81,
-    "x": 6,
-    "y": 40
+    "height": 16,
+    "width": 85,
+    "x": 4,
+    "y": 42
   },
-  "glyphBounds": "{{1, 4}, {79, 12}}",
+  "glyphBounds": "{{1, 2}, {83, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,9 +91,9 @@
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
+            "name": "SFProText-Regular",
             "size": 14
           }
         },

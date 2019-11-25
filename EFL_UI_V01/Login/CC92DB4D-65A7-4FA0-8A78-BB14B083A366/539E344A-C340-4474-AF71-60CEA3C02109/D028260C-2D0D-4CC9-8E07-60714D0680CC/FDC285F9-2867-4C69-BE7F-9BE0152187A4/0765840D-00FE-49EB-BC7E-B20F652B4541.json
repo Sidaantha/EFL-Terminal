@@ -14,16 +14,16 @@
             "red": 1
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Regular",
+              "name": "SFProDisplay-Regular",
               "size": 18
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 0
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "AAFD41C0-C842-4D14-A15B-B6570BBE8F51",
-    "height": 25,
-    "width": 67,
+    "height": 21,
+    "width": 63,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 4}, {66, 19}}",
+  "glyphBounds": "{{0, 4}, {62, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -73,7 +73,7 @@
   "resizingConstraint": 47,
   "resizingType": 1,
   "rotation": 0,
-  "sharedStyleID": "536E8625-FD51-4358-8EDF-C912FBBF2EA5",
+  "sharedStyleID": "55BE7792-60CA-42BF-9CC4-C8050C0C0227",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -83,7 +83,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "C2CB7423-6F6E-4438-9597-EAE12B9AF84C",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -93,16 +92,16 @@
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Regular",
+            "name": "SFProDisplay-Regular",
             "size": 18
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 0

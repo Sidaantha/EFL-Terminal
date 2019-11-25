@@ -14,7 +14,7 @@
             "red": 1
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
               "name": "SFProDisplay-Regular",
               "size": 14
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 61,
+    "width": 57,
     "x": 81,
     "y": 529
   },
-  "glyphBounds": "{{0, 2}, {56, 12}}",
+  "glyphBounds": "{{1, 2}, {55, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -90,7 +90,7 @@
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
             "name": "SFProDisplay-Regular",
             "size": 14
