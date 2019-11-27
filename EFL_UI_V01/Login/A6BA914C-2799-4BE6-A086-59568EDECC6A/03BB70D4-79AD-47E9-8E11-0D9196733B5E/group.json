@@ -1,0 +1,122 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "03BB70D4-79AD-47E9-8E11-0D9196733B5E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "806F6853-0DC5-4264-8422-9FA9E277359A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3B709934-C09E-4A12-A299-687F19BADAAB",
+    "height": 16,
+    "width": 16,
+    "x": 39,
+    "y": 334
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "AFB63C95-7C15-421E-ADEB-31DA2CD4A38D"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B1088E21-DB9D-4311-BF0F-12F6E379D386"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FCFD25E3-B3B4-42CD-AB43-849A581D0083"
+    },
+    {
+      "class": "shapePath",
+      "id": "9D9ACC25-E4B1-4670-975D-5F294434748F"
+    },
+    {
+      "class": "rectangle",
+      "id": "CC495989-8CE6-489B-8A5E-C69A905B1216"
+    },
+    {
+      "class": "shapePath",
+      "id": "A99780FC-8E09-4EC7-94A8-F90B736D533E"
+    },
+    {
+      "class": "shapePath",
+      "id": "F1D3F7A8-4184-4947-A9AC-DAD1E72870A7"
+    },
+    {
+      "class": "shapePath",
+      "id": "D8E731F3-318B-4293-8D76-55B9BB4706DA"
+    },
+    {
+      "class": "shapePath",
+      "id": "27A58C47-0BD2-44EB-B9DE-46ED9D283E1C"
+    }
+  ],
+  "name": "truck enable",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E045F74F-FC6F-40C5-9BBF-1BFEC44FF917",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.4090886392009987,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "6198F9CF-83CC-4D8F-8FAF-D01F7E54EB96",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

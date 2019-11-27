@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.3137254901960784,
+            "green": 0.2941176470588235,
+            "red": 0.2627450980392157
           },
           "MSAttributedStringFontAttribute": {
             "_class": "UIFontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Medium",
+              "name": "SFProDisplay-Medium",
               "size": 20
             }
           },
@@ -60,12 +60,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "75189B35-3B86-4A21-8D19-E10D4B09ED97",
-    "height": 27,
-    "width": 167.8287461773701,
-    "x": 88,
-    "y": 9
+    "height": 24,
+    "width": 152,
+    "x": 96,
+    "y": 11
   },
-  "glyphBounds": "{{1, 4}, {158, 21}}",
+  "glyphBounds": "{{1, 4}, {150, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -79,7 +79,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "D8F8CF3E-5ED8-462B-8815-8A2CD011F451",
+  "sharedStyleID": "08FFE09A-514F-453B-9A2A-99BEE9209C86",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -89,19 +89,18 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "FFB65A4E-4809-4CB6-B866-C8E343C27D19",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.3137254901960784,
+          "green": 0.2941176470588235,
+          "red": 0.2627450980392157
         },
         "MSAttributedStringFontAttribute": {
           "_class": "UIFontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Medium",
+            "name": "SFProDisplay-Medium",
             "size": 20
           }
         },
@@ -115,5 +114,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }
