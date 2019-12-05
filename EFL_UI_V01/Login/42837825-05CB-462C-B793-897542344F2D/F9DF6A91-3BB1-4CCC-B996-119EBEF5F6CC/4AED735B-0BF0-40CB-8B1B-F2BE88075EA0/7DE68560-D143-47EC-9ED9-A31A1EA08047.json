@@ -31,7 +31,7 @@
         "location": 0
       }
     ],
-    "string": "86351991"
+    "string": "Wardberg"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -62,11 +62,11 @@
     "constrainProportions": false,
     "do_objectID": "95F5E222-040D-48A0-A64D-72E8F837F98B",
     "height": 14,
-    "width": 54,
-    "x": 257,
+    "width": 50,
+    "x": 261,
     "y": 0
   },
-  "glyphBounds": "{{0, 2}, {52, 10}}",
+  "glyphBounds": "{{0, 2}, {49, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -126,11 +126,11 @@
     },
     "com.invisionlabs.duplicate": {
       "type-duplicate": {
-        "action": "phone",
-        "icon": "phone",
-        "id": "phone",
-        "index": 9,
-        "title": "Phone numbers"
+        "action": "city",
+        "icon": "city",
+        "id": "city",
+        "index": 7,
+        "title": "Cities"
       }
     }
   }

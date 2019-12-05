@@ -34,7 +34,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B81BAA6D-B8B7-4A1C-B162-CB751DA8169B",
-    "height": 1782,
+    "height": 1808,
     "width": 375,
     "x": 10230,
     "y": 3333
@@ -44,7 +44,7 @@
     "do_objectID": "70B7A422-2837-4B06-92AC-9C095E15BBE5"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -63,10 +63,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "group",
-      "id": "D49B9F54-E66C-4CF5-B0E8-B89C57DD0F71"
-    },
     {
       "class": "group",
       "id": "8DAF9819-8854-4EF4-AFA5-C195DDAEF058"
@@ -94,6 +90,10 @@
     {
       "class": "group",
       "id": "E95F4388-7FEE-46DE-B521-5E15EDAAB14A"
+    },
+    {
+      "class": "group",
+      "id": "7ED7474B-4661-4871-AAC0-EE0955BFC66D"
     }
   ],
   "name": "supervisor shipment  full info",

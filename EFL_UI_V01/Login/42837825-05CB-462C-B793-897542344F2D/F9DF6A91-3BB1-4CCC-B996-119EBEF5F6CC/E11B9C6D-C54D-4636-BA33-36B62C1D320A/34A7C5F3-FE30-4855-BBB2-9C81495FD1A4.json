@@ -27,11 +27,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 12,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Hilda Horton"
+    "string": "Canada"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -62,11 +62,11 @@
     "constrainProportions": false,
     "do_objectID": "D0179012-EDDA-4296-95FA-995A53A0116D",
     "height": 14,
-    "width": 64,
-    "x": 247,
+    "width": 40,
+    "x": 271,
     "y": 0
   },
-  "glyphBounds": "{{0, 2}, {63, 10}}",
+  "glyphBounds": "{{0, 2}, {39, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -126,8 +126,14 @@
     },
     "com.invisionlabs.duplicate": {
       "type-duplicate": {
-        "action": "name",
-        "title": "Both"
+        "action": "country",
+        "icon": "country",
+        "id": "country",
+        "index": 6,
+        "options": {
+          "full": 1
+        },
+        "title": "Countries"
       }
     }
   }
