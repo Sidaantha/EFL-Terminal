@@ -27,11 +27,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 10,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Roxie Cole"
+    "string": "05:01AM"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -62,11 +62,11 @@
     "constrainProportions": false,
     "do_objectID": "EB5CC184-1B36-4D0E-9B14-88DDA7A8CEE9",
     "height": 14,
-    "width": 54,
-    "x": 257,
+    "width": 48,
+    "x": 263,
     "y": 0
   },
-  "glyphBounds": "{{0, 2}, {53, 10}}",
+  "glyphBounds": "{{0, 2}, {47, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -126,11 +126,8 @@
     },
     "com.invisionlabs.duplicate": {
       "type-duplicate": {
-        "action": "phone",
-        "icon": "phone",
-        "id": "phone",
-        "index": 9,
-        "title": "Phone numbers"
+        "action": "_time",
+        "title": "Both"
       }
     }
   }

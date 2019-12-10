@@ -19,9 +19,9 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "@2x",
+        "name": "",
         "namingScheme": 0,
-        "scale": 2,
+        "scale": 1,
         "visibleScaleType": 0
       }
     ],
@@ -34,17 +34,17 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D0111722-D9BE-451D-9119-A1A9A74804EB",
-    "height": 739,
-    "width": 375,
-    "x": 254.9999999999999,
-    "y": 3123
+    "height": 730,
+    "width": 374.9999999999999,
+    "x": 730.0000000000002,
+    "y": 3333
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "8F0037DC-F34D-43CD-8043-6CBD1572CEB3"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -77,10 +77,6 @@
     },
     {
       "class": "group",
-      "id": "35ADC98B-79FC-4594-9DF5-DF74D7AF5D84"
-    },
-    {
-      "class": "group",
       "id": "642C8A51-0A44-45CE-8E89-A35861646BEA"
     },
     {
@@ -106,6 +102,14 @@
     {
       "class": "group",
       "id": "160C0DF7-058E-45F9-8FAD-7706E3C56CBA"
+    },
+    {
+      "class": "group",
+      "id": "F0E0262B-9BCA-430F-B3B3-2C1F98BE51DA"
+    },
+    {
+      "class": "group",
+      "id": "1D544725-5293-4E45-A074-3719E713D032"
     }
   ],
   "name": "supervisor wearhouse shipment replace check",

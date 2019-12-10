@@ -19,9 +19,9 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "@2x",
+        "name": "",
         "namingScheme": 0,
-        "scale": 2,
+        "scale": 1,
         "visibleScaleType": 0
       }
     ],
@@ -34,17 +34,17 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E0051039-A036-4713-9184-93F88308D396",
-    "height": 789,
+    "height": 776,
     "width": 375,
-    "x": 4055,
-    "y": 3123
+    "x": 4530,
+    "y": 3333
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "E3EC6CEE-5387-4996-BB37-ED15FF4565F4"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -73,10 +73,6 @@
     },
     {
       "class": "group",
-      "id": "850DFD2C-65BB-4E88-B565-3B9CD819ABEE"
-    },
-    {
-      "class": "group",
       "id": "E260912D-6532-41BA-9432-F50E4C4280F4"
     },
     {
@@ -86,6 +82,14 @@
     {
       "class": "group",
       "id": "5F88077E-DB98-40CD-A253-3E3BB233379A"
+    },
+    {
+      "class": "group",
+      "id": "B84C33A3-00DF-4576-8D36-C257A9846CFF"
+    },
+    {
+      "class": "group",
+      "id": "C4F12E7F-882A-429F-8E05-5D439A38AA70"
     }
   ],
   "name": "supervisor document verification",

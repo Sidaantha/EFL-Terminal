@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 20,
         "location": 0
       }
     ],
-    "string": "Order ID"
+    "string": "Delivery Information"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -41,6 +41,15 @@
     "_class": "exportOptions",
     "do_objectID": "55EA6DC3-A5DE-46BA-B546-A11084C6B64B",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -52,11 +61,11 @@
     "constrainProportions": false,
     "do_objectID": "F94B9F1B-9B2A-4779-BFCC-9694269BE08D",
     "height": 19,
-    "width": 56,
+    "width": 134,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 3}, {56, 13}}",
+  "glyphBounds": "{{1, 3}, {132, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +74,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Order ID",
+  "name": "Delivery Information",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -19,9 +19,9 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "@2x",
+        "name": "",
         "namingScheme": 0,
-        "scale": 2,
+        "scale": 1,
         "visibleScaleType": 0
       }
     ],
@@ -34,10 +34,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5334AE65-AB85-4A3F-95C4-513BA1FB7DEA",
-    "height": 855,
+    "height": 1524,
     "width": 375,
     "x": -1170,
-    "y": 3123
+    "y": 3333
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -73,11 +73,19 @@
     },
     {
       "class": "group",
+      "id": "325B300D-1589-482C-8576-C53881DF9BC3"
+    },
+    {
+      "class": "group",
       "id": "D77CA04C-B089-4558-B191-C9F60FC9ABBB"
     },
     {
       "class": "group",
       "id": "CBB84295-0D7F-4BF0-97A0-CFED31B1AE27"
+    },
+    {
+      "class": "group",
+      "id": "4E1BF7BA-A829-42C9-9A9E-E22D38A6E8BB"
     }
   ],
   "name": "supervisor shipment  copy",
