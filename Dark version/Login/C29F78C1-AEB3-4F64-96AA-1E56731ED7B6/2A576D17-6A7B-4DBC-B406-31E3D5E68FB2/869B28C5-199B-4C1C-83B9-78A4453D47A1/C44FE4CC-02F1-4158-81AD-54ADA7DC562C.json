@@ -27,7 +27,7 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 13,
+        "length": 4,
         "location": 0
       },
       {
@@ -55,10 +55,10 @@
           }
         },
         "length": 1,
-        "location": 13
+        "location": 4
       }
     ],
-    "string": "Schedule Time*"
+    "string": "Time*"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -89,11 +89,11 @@
     "constrainProportions": false,
     "do_objectID": "5C1F6D70-0D48-48E1-A616-990F67DA4EB8",
     "height": 14,
-    "width": 80,
+    "width": 30,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 2}, {80, 10}}",
+  "glyphBounds": "{{0, 2}, {30, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
