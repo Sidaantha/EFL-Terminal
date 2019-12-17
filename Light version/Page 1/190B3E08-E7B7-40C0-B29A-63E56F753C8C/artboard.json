@@ -34,7 +34,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "AE3BD1D4-3B8D-4340-95D7-6799C9831CCF",
-    "height": 741,
+    "height": 830,
     "width": 375,
     "x": 11655,
     "y": 1783
@@ -44,7 +44,7 @@
     "do_objectID": "F634AF7B-D219-4415-9956-92A3274BF3FA"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,22 +65,6 @@
   "layers": [
     {
       "class": "group",
-      "id": "829945A1-A3B1-4826-A0CB-30564BE32CC4"
-    },
-    {
-      "class": "group",
-      "id": "B6425E1E-1012-4518-82B7-F28BF10F6FE2"
-    },
-    {
-      "class": "group",
-      "id": "08DF813C-D100-468C-9B0C-E6D00BE25959"
-    },
-    {
-      "class": "group",
-      "id": "8C3919C5-E314-4218-BF1D-DF3F3610F5C9"
-    },
-    {
-      "class": "group",
       "id": "FCEA217A-EE8A-4BDF-B736-9F83F159B712"
     },
     {
@@ -98,6 +82,10 @@
     {
       "class": "group",
       "id": "E4B71AF8-6851-4CF4-AFEC-A28BFE9BC275"
+    },
+    {
+      "class": "group",
+      "id": "8B21DAF3-7A03-49DA-A413-DA3F81C887A1"
     }
   ],
   "name": "supervisor exception report physical attachment",
