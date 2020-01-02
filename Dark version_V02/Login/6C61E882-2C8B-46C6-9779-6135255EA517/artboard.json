@@ -34,7 +34,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1BC6ABCE-04F0-4624-B2B5-877A3BDAE9A4",
-    "height": 830,
+    "height": 916,
     "width": 375,
     "x": 7380.000000000001,
     "y": 3333
@@ -44,7 +44,7 @@
     "do_objectID": "3DCB2667-BBC2-474B-B38D-45B8BE1D2BA2"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -74,6 +74,10 @@
     {
       "class": "group",
       "id": "746EBB5A-EE58-4719-A0CA-B27F6A0E9587"
+    },
+    {
+      "class": "group",
+      "id": "CD33AC17-8792-4C1C-960D-8D18D03D97F9"
     }
   ],
   "name": "supervisor exception report physical attachment",

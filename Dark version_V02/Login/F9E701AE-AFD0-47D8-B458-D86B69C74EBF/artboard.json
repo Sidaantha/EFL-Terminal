@@ -34,8 +34,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "81BEF5D8-B773-4039-A349-464CE099EEE0",
-    "height": 803,
-    "width": 375,
+    "height": 890,
+    "width": 375.0000000000001,
     "x": 9280,
     "y": 3333
   },
@@ -44,7 +44,7 @@
     "do_objectID": "C3B55068-4620-4BE2-9D96-0852BFB32F4F"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -86,6 +86,10 @@
     {
       "class": "group",
       "id": "84ADC440-F048-44EB-B02F-E5961FB2C68C"
+    },
+    {
+      "class": "group",
+      "id": "0C1256EB-7491-4A4B-9C52-E2D9BA99ECCF"
     }
   ],
   "name": "supervisor exception report missing document fill",

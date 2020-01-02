@@ -34,8 +34,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1126A65B-E0D9-447F-BC9E-9DBF635FDE62",
-    "height": 803,
-    "width": 375,
+    "height": 890,
+    "width": 375.0000000000001,
     "x": 8805,
     "y": 3333
   },
@@ -44,7 +44,7 @@
     "do_objectID": "8E6326E9-DAD1-4683-A361-A38CFEA50615"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -86,6 +86,10 @@
     {
       "class": "group",
       "id": "3988F409-68DF-4978-BE6E-FCAB76BB77CA"
+    },
+    {
+      "class": "group",
+      "id": "410BB7C6-5EF5-46EA-8C32-F3E83FE89375"
     }
   ],
   "name": "supervisor exception report missing document",
