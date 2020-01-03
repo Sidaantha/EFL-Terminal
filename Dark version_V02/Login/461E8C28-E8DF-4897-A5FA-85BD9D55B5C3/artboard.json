@@ -34,7 +34,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "05AC5C28-27D6-4366-8AF9-F31174CA70FB",
-    "height": 1378,
+    "height": 1425,
     "width": 375,
     "x": -695,
     "y": 3333
@@ -44,7 +44,7 @@
     "do_objectID": "D3A4E388-35B4-4255-97DF-4A2DAB32CFD5"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -81,11 +81,19 @@
     },
     {
       "class": "group",
-      "id": "E8D590FA-A3FF-42D1-B8F1-AE8E852177A2"
+      "id": "F4304CD2-FD9A-4CC1-9A80-09E2158105A5"
+    },
+    {
+      "class": "group",
+      "id": "28CA4BFF-DE4A-48EC-8C71-AB7E5875415B"
     },
     {
       "class": "symbolInstance",
       "id": "561F5A12-F171-4104-B2E1-7713BD9B3C24"
+    },
+    {
+      "class": "group",
+      "id": "937C3702-BB70-43D0-8A40-528D5C5CD0E9"
     }
   ],
   "name": "supervisor shipment  minimize",

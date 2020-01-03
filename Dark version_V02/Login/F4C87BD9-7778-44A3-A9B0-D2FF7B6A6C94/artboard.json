@@ -34,7 +34,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0F132210-2D23-439B-9E45-1B85A11D26D6",
-    "height": 1225,
+    "height": 1272,
     "width": 375,
     "x": -220,
     "y": 3333
@@ -44,7 +44,7 @@
     "do_objectID": "2288D974-521A-495F-92E2-89ABCC9EAB8A"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,7 +65,15 @@
   "layers": [
     {
       "class": "group",
-      "id": "AC60090C-CDEA-4DCE-BA5D-EC445EB3B4A2"
+      "id": "3D02A8FC-07F1-4D59-A366-A28F46122377"
+    },
+    {
+      "class": "group",
+      "id": "EE47789B-1D4C-47F3-87E8-7AFE0C333AAE"
+    },
+    {
+      "class": "group",
+      "id": "228D5F53-84FE-4EB1-917D-7AE3841DC7A5"
     },
     {
       "class": "group",
@@ -78,6 +86,10 @@
     {
       "class": "symbolInstance",
       "id": "A9B43096-C7E7-47A8-B3A1-1A62E89B32D7"
+    },
+    {
+      "class": "group",
+      "id": "1AB48CFF-5FCE-4A4F-A581-499DE4097DDF"
     }
   ],
   "name": "supervisor wearhouse shipment check",

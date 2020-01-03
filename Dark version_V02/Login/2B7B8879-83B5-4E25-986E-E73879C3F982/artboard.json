@@ -34,7 +34,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D0111722-D9BE-451D-9119-A1A9A74804EB",
-    "height": 1163,
+    "height": 1215,
     "width": 374.9999999999999,
     "x": 730,
     "y": 3333
@@ -44,7 +44,7 @@
     "do_objectID": "8F0037DC-F34D-43CD-8043-6CBD1572CEB3"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -80,12 +80,12 @@
       "id": "68FE0E66-7132-480B-A8E5-05FCEBC62C38"
     },
     {
-      "class": "group",
-      "id": "F438BA4E-815B-42FB-9C14-F43B816037F0"
-    },
-    {
       "class": "symbolInstance",
       "id": "D09A7322-2ED8-4679-9F7A-9337972994DB"
+    },
+    {
+      "class": "group",
+      "id": "AA31C95D-1C6E-4D3B-B6E0-19C5111F3F26"
     }
   ],
   "name": "supervisor wearhouse shipment replace check",
