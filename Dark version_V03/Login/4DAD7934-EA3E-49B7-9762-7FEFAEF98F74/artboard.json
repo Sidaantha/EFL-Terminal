@@ -44,7 +44,7 @@
     "do_objectID": "95F314E0-3FF3-41F4-8D14-CED0F5614C14"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -63,10 +63,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "group",
-      "id": "8BDA70EA-F19F-4753-8294-E52019A9BCCA"
-    },
     {
       "class": "group",
       "id": "B0249542-E2D6-49A0-97C3-E1987267823A"
@@ -94,6 +90,10 @@
     {
       "class": "group",
       "id": "699B4359-8725-4DBC-8355-284C4C2C31CC"
+    },
+    {
+      "class": "group",
+      "id": "7E29996A-6089-417F-9DA3-6ACBD33C4C8B"
     }
   ],
   "name": "admin shipment ",

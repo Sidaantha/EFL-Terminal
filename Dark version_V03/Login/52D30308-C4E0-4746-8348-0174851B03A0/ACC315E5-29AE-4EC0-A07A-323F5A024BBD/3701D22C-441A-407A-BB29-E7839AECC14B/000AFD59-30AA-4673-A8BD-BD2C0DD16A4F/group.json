@@ -1,0 +1,106 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "000AFD59-30AA-4673-A8BD-BD2C0DD16A4F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DAB897F7-7A50-418E-A3A3-A42C2E762D33",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DBC2A217-42AA-4FFD-8C72-4DD97E903BE7",
+    "height": 16,
+    "width": 19,
+    "x": 38,
+    "y": 16
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "17D554DC-335C-4F63-8F1C-1AE16D1FD64C"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "CC34F92F-A224-4CC1-A018-54EAD57A66D3"
+    },
+    {
+      "class": "oval",
+      "id": "06450960-A580-4B94-A8D6-3AA602544162"
+    },
+    {
+      "class": "shapePath",
+      "id": "EABA17BD-A34A-49E0-ADB7-3ADDCFBEA73B"
+    },
+    {
+      "class": "shapePath",
+      "id": "BC85D750-75AF-4036-AE02-6063D61EACE0"
+    }
+  ],
+  "name": "users navigation",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E08135BB-D905-443C-A5E8-DC6E6D04190E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.88888888888889,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "190308DA-E829-4032-9C08-584EE91AB194",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
